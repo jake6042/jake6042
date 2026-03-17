@@ -6,7 +6,7 @@ software engineering student at WGU. i've been tinkering with computers since i 
 
 **some things i've built**
 
-- **[A Better Dashcam Viewer](https://github.com/jake6042)** — electron app that extracts Tesla dashcam telemetry (speed, autopilot, GPS) and renders it as a real-time overlay. cut memory usage by 95% with smart change detection
+- **[A Better Dashcam Viewer](https://github.com/jake6042/a-better-dashcam-viewer)** — electron app that extracts Tesla dashcam telemetry (speed, autopilot, GPS) and renders it as a real-time overlay. cut memory usage by 95% with smart change detection
 - **Minecraft Waypoint Plugin** — paper/bukkit plugin for persistent server teleportation waypoints. built it because my friends and i kept wasting time crossing a massive world. open source soon™
 - **Discord Support Bot** — full order management system with WooCommerce integration, automated shipment tracking, and HTML transcript generation. handles 100+ orders per batch
 
